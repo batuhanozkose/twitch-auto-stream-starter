@@ -1,3 +1,0 @@
-C:/Users/batuh/CLionProjects/TwitchAutoStreamStarter/cmake-build-debug/CMakeFiles/TwitchAutoStreamStarter.dir
-C:/Users/batuh/CLionProjects/TwitchAutoStreamStarter/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/batuh/CLionProjects/TwitchAutoStreamStarter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
