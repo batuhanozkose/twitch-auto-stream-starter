@@ -6,6 +6,7 @@
 
 
 > What is this?
-A simple program to automatically start broadcasts on Twitch from the broadcasters of your choice.
+
+ A simple program to automatically start broadcasts on Twitch from the broadcasters of your choice.
 
 
