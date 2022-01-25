@@ -8,7 +8,7 @@ int main() {
     int userselection;
 
     printf("Twitch Auto Stream Starter\n");
-    printf("Made By: senius'dev\n");
+    printf("By: senius'dev\n");
     printf("\n");
 
     printf("Select the user you want to start automatic broadcasting from the list.\n");
