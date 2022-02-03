@@ -33,7 +33,7 @@ int main() {
     } else if (userselection == 4) {
         system("start https://twitch.tv/kendinemuzisyen");
     } else if (userselection == 5) {
-        system("start https://twitch.tv/elraen");
+        system("start https://twitch.tv/elraenn");
     } else {
         printf("Invalid selection.\n");
     }
